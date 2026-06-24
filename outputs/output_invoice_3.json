@@ -1,0 +1,24 @@
+{
+    "invoice_number": "APU-2025-X89",
+    "invoice_date": "20-08-2025",
+    "due_date": "05-09-2025",
+    "billed_by": "APEX POWER DISTRIBUTION CORP",
+    "billed_to": "Rajesh Kumar",
+    "line_items": [
+        {
+            "item": "Electricity Energy Consumption Charge (August Period)",
+            "amount": "3,450.00"
+        },
+        {
+            "item": "Fixed Grid Infrastructure & Maintenance Surcharge",
+            "amount": "250.00"
+        }
+    ],
+    "subtotal": "3,700.00",
+    "discount": null,
+    "tax_or_gst": "185.00",
+    "total_amount": "3,885.00",
+    "currency": "INR",
+    "payment_method": "NetBanking / UPI / BBPS",
+    "notes": "Please settle your statement before the due date (05-09-2025) to avoid a late penalty surcharge of 2.00%."
+}

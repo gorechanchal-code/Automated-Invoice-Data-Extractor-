@@ -1,0 +1,20 @@
+{
+    "invoice_number": "VLR-2025-0047",
+    "invoice_date": "03-06-2025",
+    "due_date": "Upon Receipt",
+    "billed_by": "VELORA SOFTWARE AGENCY",
+    "billed_to": "Mr. Alok Agrawal Personal Project Bangalore, Karnataka, India",
+    "line_items": [
+        {
+            "item": "Billing Management App Development",
+            "amount": "1,30,000.00"
+        }
+    ],
+    "subtotal": "1,30,000.00",
+    "discount": "15,000.00",
+    "tax_or_gst": "Not Applicable",
+    "total_amount": "1,15,000.00",
+    "currency": "INR",
+    "payment_method": "NEFT / RTGS / IMPS / UPI",
+    "notes": "Please share the transaction reference with us after completing the payment."
+}

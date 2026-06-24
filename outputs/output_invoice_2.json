@@ -1,0 +1,28 @@
+{
+    "invoice_number": "TM-2025-98412",
+    "invoice_date": "12-07-2025",
+    "due_date": null,
+    "billed_by": "Tech-Mart Electronics Ltd.",
+    "billed_to": "Priya Sharma 402, Pearl Heights, Jumeirah Dubai, UAE",
+    "line_items": [
+        {
+            "item": "Wireless Noise-Canceling Earbuds",
+            "amount": "$45.00"
+        },
+        {
+            "item": "USB-C Fast Charging Block (30W)",
+            "amount": "$15.00"
+        },
+        {
+            "item": "Ergonomic Laptop Stand",
+            "amount": "$30.00"
+        }
+    ],
+    "subtotal": "$90.00",
+    "discount": "$10.00",
+    "tax_or_gst": "$7.20",
+    "total_amount": "$87.20",
+    "currency": "USD",
+    "payment_method": "Credit Card (Visa Ending in *4321)",
+    "notes": "Thank you for shopping with Tech-Mart! Enjoy your brand-new technology gadgets."
+}
